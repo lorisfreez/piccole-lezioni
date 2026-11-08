@@ -262,5 +262,13 @@
   "titolo": "Aggiorna il browser: la guida per Firefox e Chrome",
   "link": "https://lorisfreez.github.io/piccole-lezioni/guide/2026-11-08-3-aggiorna.html",
   "pdf": "https://cdn.jsdelivr.net/gh/lorisfreez/piccole-lezioni@a5b147528d60/2026-11-08-3-aggiorna.pdf"
+ },
+ {
+  "data": "2026-11-08",
+  "ora": "10:30",
+  "parola": "TRUFFE",
+  "titolo": "Google Messaggi: la protezione contro gli SMS truffa",
+  "link": "https://lorisfreez.github.io/piccole-lezioni/guide/2026-11-08-2-truffe.html",
+  "pdf": "https://cdn.jsdelivr.net/gh/lorisfreez/piccole-lezioni@a99357d3eb5c/2026-11-08-2-truffe.pdf"
  }
 ]
