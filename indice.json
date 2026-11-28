@@ -854,5 +854,21 @@
   "titolo": "MinervaE: l'IA italiana della Sapienza",
   "link": "https://lorisfreez.github.io/piccole-lezioni/guide/2026-11-28-6-minerva.html",
   "pdf": "https://cdn.jsdelivr.net/gh/lorisfreez/piccole-lezioni@6b0cb9839dc1/2026-11-28-6-minerva.pdf"
+ },
+ {
+  "data": "2026-11-28",
+  "ora": "15:00",
+  "parola": "FORNITORE",
+  "titolo": "Gemini: listini e contratti dei fornitori in una tabella",
+  "link": "https://lorisfreez.github.io/piccole-lezioni/guide/2026-11-28-4-fornitore.html",
+  "pdf": "https://cdn.jsdelivr.net/gh/lorisfreez/piccole-lezioni@31a588d43690/2026-11-28-4-fornitore.pdf"
+ },
+ {
+  "data": "2026-11-28",
+  "ora": "17:30",
+  "parola": "SEGRETI",
+  "titolo": "ChatGPT: cosa non scrivere mai e come proteggere le tue chat",
+  "link": "https://lorisfreez.github.io/piccole-lezioni/guide/2026-11-28-5-segreti.html",
+  "pdf": "https://cdn.jsdelivr.net/gh/lorisfreez/piccole-lezioni@31a588d43690/2026-11-28-5-segreti.pdf"
  }
 ]
